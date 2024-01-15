@@ -27,5 +27,3 @@
 CCPD数据集：https://github.com/detectRecog/CCPD
 
 Labelme：https://github.com/labelmeai/labelme
-
-# CCPD5000HQ
